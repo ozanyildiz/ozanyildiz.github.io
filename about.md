@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hey! My name is Ozan Yildiz. I'm a Computer Engineering graduate from [Izmir University of Economics](http://www.ieu.edu.tr/en) in Turkey, currently working as a Python Developer at an Istanbul-based online travel and hotel company.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+My main interests are Python, web development, open source projects and learning new stuff. If you want to get in touch with me, you can email me at ozanyyildiz -at- gmail.com
