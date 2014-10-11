@@ -227,6 +227,6 @@ if __name__ == "__main__":
 # output: {'price': 6.92, 'author': 'J.K. Rowling', 'title': "Harry Potter and the Sorcerer's Stone (Harry Potters)"}
 {% endhighlight %}
 
-That's it! Finally we achived what we want. But we didn't cover the all scenerios. For example, there are books written by more than one authors. In that case, our code will find only one of them. And also we didn't extract the cover image, publishing date, publisher, etc. These won't be a big problem, because now we know the tools to implement those too. For the sake of keeping the post no more longer I won't go over those details. 
+That's it! Finally we achived what we want. But we didn't cover the all the scenerios. For example, there are books written by more than one authors. In that case, our code will find only one of them. Also we didn't extract the cover image, publishing date, publisher, etc. These won't be a big problem, because now we know the tools to implement those too. For the sake of keeping the post no more longer I won't go over those details. 
 
 I hope you find the post helpful. Please share your thoughts and everyhing on the comment section below. Have a good one :)
