@@ -38,7 +38,7 @@ Anyway, back to the tech talk. The scope of it was metaprogramming in Ruby,
 Lisp and Scala. I had never heard of metaprogramming before and I thought that 
 it would be very educational to attend an event like this. But I thought
 I should at least know the dictionary definition of metaprogramming before going.
-Here is the first paragraph of the metaprogramming's wikipedia page:
+Here is the first paragraph of the metaprogramming's Wikipedia page:
 
 > Metaprogramming is the writing of computer programs with the ability to treat 
 programs as their data. It means that a program could be designed to read, 
@@ -53,11 +53,11 @@ couldn't be coincidence. Why are people that mentioning about Lisp is having tha
 excitement and enthusiasm. I couldn’t find an answer at that moment.  
 
 I continued to read the book. I was writing the codes in the book to my editor to
-learn better. At some point, the code didn't work. There was a function, let's say `elemAt`
+learn better. At some point, the code didn't work. There was a function, `elemAt`
 (the name was different on the book but I couldn’t remember), that takes a list and an 
 index and returns the element in that index. I was using Racket, different implementation
 of Scheme. Apparently, the name of the function was different on Racket. Then, I
-thought "Hey, this is not a problem. I can write my own `elemAt` and I didn't
+thought "Hey, this is not a problem. I can write my own `elemAt`" and I didn't
 even feel the need of looking up on the internet to find what is the equivalent
 of that function on Racket. After some keystrokes, this happened:  
 
@@ -74,7 +74,7 @@ of that function on Racket. After some keystrokes, this happened:
 
 I re-ran the program and it worked. Then I realized that I have the same weird
 smile on my face like the other two guys have. The code I wrote was not too complex
-(I know, I know it's not complete, either. I doesn't work on negative indices). So, why
+(I know, I know it's not complete, either. It doesn't work on negative indices). So, why
 do I feel like I achieved something? I guess it's because even if I was a rookie, I
 wrote a built-in kind of function. That was a different kind of experience for
 somebody who has only imperative language background.  
